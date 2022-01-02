@@ -1,8 +1,8 @@
 package main
 
 import (
-	. "../util"
 	"fmt"
+	. "majcn.si/advent-of-code-2021/util"
 	"regexp"
 	"strings"
 )

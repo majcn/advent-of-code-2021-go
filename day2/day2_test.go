@@ -1,7 +1,7 @@
 package main
 
 import (
-	. "../util"
+	. "majcn.si/advent-of-code-2021/util"
 	"testing"
 )
 

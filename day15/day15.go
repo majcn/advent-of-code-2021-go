@@ -1,9 +1,9 @@
 package main
 
 import (
-	. "../util"
 	"container/heap"
 	"fmt"
+	. "majcn.si/advent-of-code-2021/util"
 	"strings"
 )
 
